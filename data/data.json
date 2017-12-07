@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Luke Skywalker",
+		"bio": "Jedi whose coming of age and rise as a Jedi are portrayed in the original Star Wars trilogy. Son of Anakin Skywalker and Padmé Amidala, and Leia Organa's twin brother",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Luke_Skywalker.png/220px-Luke_Skywalker.png"
+	},
+	{
+		"name": "Leia Organa",
+		"bio": "Leader in the Rebel Alliance, the New Republic, and the Resistance. She is the biological daughter of Anakin Skywalker and Padmé Amidala, as well as Luke Skywalker's twin sister and Han Solo's wife",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg/220px-Princess_Leia%27s_characteristic_hairstyle.jpg"
+	},
+	{
+		"name": "Han Solo",
+		"bio": "Captain of the Millennium Falcon who joins the Rebellion and marries Leia Organa. He is murdered by his son, Kylo Ren, after a failed attempt to turn his son from the dark side.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg/220px-Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg"
+	},
+	{
+		"name": "Obi-Wan Kenobi",
+		"bio": "Wise and skilled Jedi Master who trains Anakin and later Luke Skywalker. A member of the Jedi Council and one of the survivors of the Great Jedi Purge, Obi-Wan is also a Jedi General during the Clone Wars. He kills General Grievous and defeated Darth Maul, and his master is Qui-Gon Jinn, who is killed by Maul. Obi-Wan is slain In A New Hope by his former apprentice Anakin, who had become Darth Vader. Guinness's and McGregor's voices as Obi-Wan can be heard in The Force Awakens during a vision sequence featuring the character Rey.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Ben_Kenobi.png/220px-Ben_Kenobi.png"
+	},
+	{
+		"name": "Luke Skywalker",
+		"bio": "Jedi whose coming of age and rise as a Jedi are portrayed in the original Star Wars trilogy. Son of Anakin Skywalker and Padmé Amidala, and Leia Organa's twin brother",
+		"img": "https://en.wikipedia.org/wiki/File:Luke_Skywalker.png"
+	},
+	{
+		"name": "Anakin Skywalker(Darth Vader)",
+		"bio": "Jedi whose fall and redemption are portrayed in the Star Wars films. His master was Obi-Wan Kenobi. He was married to Padmé Amidala; father of Luke and Leia. He is an excellent Pod Racer and he is the Chosen One. Known as Darth Vader after his fall to the dark side.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Darth_Vader.jpg/220px-Darth_Vader.jpg"
+	},
+	{
+		"name": "Yoda",
+		"bio": "Jedi master who trains Count Dooku and Luke Skywalker. He goes into exile on Dagobah after the fall of the Republic in Revenge of the Sith.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Yoda_Empire_Strikes_Back.png/220px-Yoda_Empire_Strikes_Back.png"
+	},
+	{
+		"name": "Kylo Ren",
+		"bio": "Alter-ego of Ben Solo after his fall to the dark side. He is a leader in the First Order and a Master of the Knights of Ren.",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCZqBwoEVQX5fSW23dkr_D7b5np2nE-S8_DvPgoRcU4Hxh4BH"
+	},
+	{
+		"name": "Boba Fett",
+		"bio": "Bounty hunter and nemesis of Han Solo, he is a clone of Jango Fett raised by Jango on Kamino as his son. He falls into the mouth of Jabba the Hutt's Sarlacc in Return of the Jedi.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/FettbobaJB.png/220px-FettbobaJB.png"
+	},
+	{
+		"name": "R2-D2",
+		"bio": "Astromech droid built on Naboo that appears in all seven Star Wars films and in Rogue One: A Star Wars Story.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/R2-D2_Droid.png/220px-R2-D2_Droid.png"
+	},
+	{
+		"name": "Padmé Amidala",
+		"bio": "Teenage queen, and later Senator of Naboo, who marries Anakin Skywalker and dies giving birth to Luke Skywalker and Leia Organa.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Amidala.png/220px-Amidala.png"
+	},
+	{
+		"name": "Rey",
+		"bio": "Scavenger who lives on the desert planet Jakku. She and Finn seek to return BB-8 to the Resistance, but she is captured by Kylo Ren. His interrogation unlocks her ability to use the Force.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Rey_Star_Wars.png/220px-Rey_Star_Wars.png"
+	},
+	{
+		"name": "Chewbacca",
+		"bio": "Han Solo's Wookiee partner and co-pilot of the Millennium Falcon.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Chewbacca-2-.jpg/220px-Chewbacca-2-.jpg"
+	},
+	{
+		"name": "Chewbacca",
+		"bio": "Han Solo's Wookiee partner and co-pilot of the Millennium Falcon.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Chewbacca-2-.jpg/220px-Chewbacca-2-.jpg"
+	},
+	{
+		"name": "Darth Maul",
+		"bio": "Mother Talzin's son and the apprentice of Darth Sidious in The Phantom Menace who kills Qui-Gon Jinn but is defeated by Obi-Wan Kenobi. He later returns during the Clone Wars with his brother, Savage Opress, to get revenge on Obi-Wan. After losing to a duel with his former master, Darth Sidious (and seeing his brother get killed), Maul is captured, and although he escapes, he soon witnesses the collapse of his group, the Shadow Collective, and the death of his mother. Forced to flee, he is left in exile on the planet Malachor for many years, until he meets the young Jedi, Ezra Bridger, whom he attempts to drift to the dark side. Although he fails, Maul is able to escape aboard a TIE fighter; he later returns in the third season looking to locate the long absent Obi-Wan Kenobi. He is finally killed by his old enemy on Tatooine in the episode 'Twin Suns'",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Darth_Maul.png/220px-Darth_Maul.png"
+	},
+	{
+		"name": "C-3PO",
+		"bio": "Protocol droid who appears throughout the Star Wars films.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/C-3PO_droid.png/220px-C-3PO_droid.png"
+	},
+	{
+		"name": "Finn",
+		"bio": "A redeemed First Order stormtrooper originally designated as FN-2187 before joining the Resistance and being dubbed 'Finn' by Poe Dameron.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Finn-Force_Awakens_%282015%29.png/220px-Finn-Force_Awakens_%282015%29.png"
+	},
+]

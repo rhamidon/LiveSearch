@@ -20,11 +20,6 @@
 		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Ben_Kenobi.png/220px-Ben_Kenobi.png"
 	},
 	{
-		"name": "Luke Skywalker",
-		"bio": "Jedi whose coming of age and rise as a Jedi are portrayed in the original Star Wars trilogy. Son of Anakin Skywalker and Padmé Amidala, and Leia Organa's twin brother",
-		"img": "https://en.wikipedia.org/wiki/File:Luke_Skywalker.png"
-	},
-	{
 		"name": "Anakin Skywalker(Darth Vader)",
 		"bio": "Jedi whose fall and redemption are portrayed in the Star Wars films. His master was Obi-Wan Kenobi. He was married to Padmé Amidala; father of Luke and Leia. He is an excellent Pod Racer and he is the Chosen One. Known as Darth Vader after his fall to the dark side.",
 		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Darth_Vader.jpg/220px-Darth_Vader.jpg"
@@ -58,11 +53,6 @@
 		"name": "Rey",
 		"bio": "Scavenger who lives on the desert planet Jakku. She and Finn seek to return BB-8 to the Resistance, but she is captured by Kylo Ren. His interrogation unlocks her ability to use the Force.",
 		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Rey_Star_Wars.png/220px-Rey_Star_Wars.png"
-	},
-	{
-		"name": "Chewbacca",
-		"bio": "Han Solo's Wookiee partner and co-pilot of the Millennium Falcon.",
-		"img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Chewbacca-2-.jpg/220px-Chewbacca-2-.jpg"
 	},
 	{
 		"name": "Chewbacca",

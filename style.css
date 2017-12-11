@@ -43,7 +43,7 @@ body {
 /* searchReults styles */
 #searchResults {
 	font-family: Georgia, "Times New Roman", Times, serif;
-	width: 70%;
+	width: 65%;
 	margin: 0 auto;
 	border-top: 1px dotted #ccc;
 }
@@ -61,6 +61,8 @@ body {
 	height: 110px;
 	overflow: hidden;
 	border-bottom: 1px dotted #ccc;
+	animation: myanim 1s;
+	transition: height 0.3s ease-out;
 }
 
 #searchResults li:hover {
@@ -84,4 +86,9 @@ body {
 	height: 150px;
 	margin-right: 5px;
 	border-radius: 10px;
+}
+
+@keyframes myanim {
+	0% { opacity: 0.3; }
+	100% { opacity: 1.0; }
 }
